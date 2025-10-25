@@ -1,6 +1,6 @@
-# Robust Attitude Control for Quadrotor UAVs
+# Ellipsoidal Set-Theoretic Robust Safety Filter for Quadrotor
 
-This repository contains MATLAB code for robust attitude control design and simulation of quadrotor unmanned aerial vehicles (UAVs) with safety guarantees.
+This repository contains MATLAB code for robust attitude control design and simulation of quadrotor unmanned aerial vehicles (UAVs) with ellipsoidal set-theoretic safety guarantees.
 
 ## Overview
 
@@ -69,10 +69,10 @@ If you use this code in your research, please cite:
 
 ```bibtex
 @misc{quadrotor_robust_control_2024,
-  title={Robust Attitude Control for Quadrotor UAVs with Safety Guarantees},
+  title={Ellipsoidal Set-Theoretic Robust Safety Filter for Quadrotor},
   author={Reza Pordal},
-  year={2024},
-  url={https://github.com/rezapordal/[repository-name]}
+  year={2025},
+  url={https://github.com/Faivex/Ellipsoidal-Set-Theoretic-Robust-Safety-Filter-for-Quadrotor}
 }
 ```
 
