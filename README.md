@@ -70,16 +70,16 @@ If you use this code in your research, please cite:
 ```bibtex
 @misc{quadrotor_robust_control_2024,
   title={Robust Attitude Control for Quadrotor UAVs with Safety Guarantees},
-  author={[Your Name]},
+  author={Reza Pordal},
   year={2024},
-  url={https://github.com/[your-username]/[repository-name]}
+  url={https://github.com/rezapordal/[repository-name]}
 }
 ```
 
 ## License
 
-[Specify your license here, e.g., MIT, Apache 2.0, etc.]
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Contact
 
-[Your contact information]
+Reza Pordal - rezapordal@gmail.com
