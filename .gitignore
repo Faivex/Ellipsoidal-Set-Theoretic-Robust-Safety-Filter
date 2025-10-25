@@ -2,7 +2,7 @@
 
 MATLAB implementation of robust attitude control for quadrotor UAVs with safety guarantees.
 
-*.m
+# Ignore temporary and binary files
 *.asv
 *.mat
 *.fig
@@ -10,3 +10,7 @@ MATLAB implementation of robust attitude control for quadrotor UAVs with safety 
 *.mdl
 *~
 .DS_Store
+
+# Ignore specific output files (keep source .m files)
+results/
+output/
