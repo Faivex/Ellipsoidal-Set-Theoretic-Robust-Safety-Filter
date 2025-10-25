@@ -52,7 +52,7 @@ If you use this code in your research, please cite:
   title={Ellipsoidal Set-Theoretic Design of Robust Safety Filters for Constrained Linear Systems},
   author={Reza Pordal, Alireza Sharifi, Ali Baniasad},
   year={2025},
-  url={https://github.com/Faivex/Ellipsoidal-Set-Theoretic-Robust-Safety-Filter-for-Quadrotor}
+  url={https://github.com/Faivex/Ellipsoidal-Set-Theoretic-Robust-Safety-Filter}
 }
 ```
 
