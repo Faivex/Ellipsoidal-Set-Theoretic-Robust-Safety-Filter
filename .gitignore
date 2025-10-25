@@ -1,0 +1,12 @@
+# Robust Quadrotor Control
+
+MATLAB implementation of robust attitude control for quadrotor UAVs with safety guarantees.
+
+*.m
+*.asv
+*.mat
+*.fig
+*.slx
+*.mdl
+*~
+.DS_Store
