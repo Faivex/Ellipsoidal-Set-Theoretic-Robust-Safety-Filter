@@ -1,6 +1,6 @@
 # Ellipsoidal Set-Theoretic Robust Safety Filter
 
-This repository provides MATLAB implementations of robust safety filters for constrained linear systems, as presented in our paper "Ellipsoidal Set-Theoretic Design of Robust Safety Filters for Constrained Linear Systems."
+This repository provides MATLAB implementations of robust safety filters for constrained linear systems, as presented in our paper "[Ellipsoidal Set-Theoretic Design of Robust Safety Filters for Constrained Linear Systems](https://arxiv.org/abs/2510.22790)."
 
 ## Overview
 
@@ -57,12 +57,14 @@ The method is validated on a 6-DOF quadrotor system with hierarchical position-a
 
 If you use this code in your research, please cite:
 ```bibtex
-@misc{pordal2025ellipsoidal,
-  title={Ellipsoidal Set-Theoretic Design of Robust Safety Filters for Constrained Linear Systems},
-  author={Pordal, Reza and Sharifi, Alireza and Baniasad, Ali},
-  year={2025},
-  note={Preprint},
-  url={https://github.com/Faivex/Ellipsoidal-Set-Theoretic-Robust-Safety-Filter}
+@misc{pordal2025ellipsoidalsettheoreticdesignrobust,
+      title={Ellipsoidal Set-Theoretic Design of Robust Safety Filters for Constrained Linear Systems}, 
+      author={Reza Pordal and Alireza Sharifi and Ali Baniasad},
+      year={2025},
+      eprint={2510.22790},
+      archivePrefix={arXiv},
+      primaryClass={eess.SY},
+      url={https://arxiv.org/abs/2510.22790}, 
 }
 ```
 
